@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 4}
-  m_MinSize: {x: 875, y: 521}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 2606
+  controlID: 67
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 708, y: 471}
   m_MaxSize: {x: 18003, y: 14021}
   vertical: 0
-  controlID: 14
+  controlID: 66
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -220,7 +220,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 471}
   m_MaxSize: {x: 10002, y: 14021}
   vertical: 1
-  controlID: 40
+  controlID: 42
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -421,7 +421,7 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_PreviewResizer:
-    m_CachedPref: -294
+    m_CachedPref: -379
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
@@ -472,14 +472,14 @@ MonoBehaviour:
   m_LastFolders:
   - "Assets/\u6750\u8CEA\u7403"
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: C:\Users\User\Desktop\1127\2\1120
+  m_LastProjectPath: C:\Users\User\Desktop\1204\2\1120
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b2340000
-    m_LastClickedID: 13490
-    m_ExpandedIDs: 000000009e34000000ca9a3b
+    m_SelectedIDs: 1a4f0000
+    m_LastClickedID: 20250
+    m_ExpandedIDs: 000000000c4f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -507,7 +507,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000009e340000a0340000
+    m_ExpandedIDs: 000000000c4f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -691,9 +691,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2.088623, y: 1.9952393, z: 1.7895508}
+    m_Target: {x: -0.93444824, y: 1.253418, z: 0.076171875}
     speed: 2
-    m_Value: {x: -2.088623, y: 1.9952393, z: 1.7895508}
+    m_Value: {x: -0.93444824, y: 1.253418, z: 0.076171875}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -739,20 +739,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.026717216, y: -0.96605605, z: 0.11148935, w: -0.2315058}
+    m_Target: {x: 0.017119436, y: -0.98260796, z: 0.14188218, w: 0.11878325}
     speed: 2
-    m_Value: {x: -0.026717177, y: -0.9660547, z: 0.11148919, w: -0.23150547}
+    m_Value: {x: 0.017118994, y: -0.9825827, z: 0.14187853, w: 0.11878019}
   m_Size:
-    m_Target: 2.7397823
+    m_Target: 3.7654512
     speed: 2
-    m_Value: 2.6218014
+    m_Value: 3.6033025
   m_Ortho:
     m_Target: 1
     speed: 2
     m_Value: 1
   m_CameraSettings:
-    m_Speed: 1
-    m_SpeedNormalized: 0.5
+    m_Speed: 1.2
+    m_SpeedNormalized: 0.5899999
     m_SpeedMin: 0.01
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -798,10 +798,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: ae75ffff
-      m_LastClickedID: -35410
-      m_ExpandedIDs: ae75ffff127effff1a7effff247effffe6bfffff64c0ffff3cf8ffff
+      scrollPos: {x: 0, y: 359}
+      m_SelectedIDs: 2068ffff
+      m_LastClickedID: -38880
+      m_ExpandedIDs: c4a0ffff50c6ffff54c6ffff56c6ffff264e0000504e0000564e0000664e00006e4e0000704e0000724e0000764e00007a4e00007e4e0000864e0000964e0000984e0000a24e0000a44e0000a64e0000ac4e0000b04e0000b44e0000b84e0000ba4e0000bc4e0000c44e0000c84e0000ca4e0000cc4e0000d24e0000d44e0000da4e0000de4e0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -817,7 +817,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 11}
+        m_ClientGUIView: {fileID: 8}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
